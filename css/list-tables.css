@@ -1,0 +1,56 @@
+th .comment-grey-bubble:before {
+	content: "\f101";
+	content: "\f101" / '';
+}
+.sorting-indicator.asc:before {
+	content: "\f142";
+	content: "\f142" / '';
+}
+.sorting-indicator.desc:before {
+	content: "\f140";
+	content: "\f140" / '';
+}
+.wp-list-table .toggle-row:before {
+	content: "\f140";
+	content: "\f140" / '';
+}
+.wp-list-table .is-expanded .toggle-row:before {
+	content: "\f142";
+	content: "\f142" / '';
+}
+.locked-indicator-icon:before {
+	content: "\f160";
+	content: "\f160" / '';
+}
+.view-switch .view-list:before {
+	content: "\f163";
+	content: "\f163" / '';
+}
+.view-switch .view-excerpt:before {
+	content: "\f164";
+	content: "\f164" / '';
+}
+.view-switch .view-grid:before {
+	content: "\f509";
+	content: "\f509" / '';
+}
+.plugin-card .update-now:before {
+	content: "\f463";
+	content: "\f463" / '';
+}
+.plugin-card .updating-message:before {
+	content: "\f463";
+	content: "\f463" / '';
+}
+.plugin-card .updated-message:before {
+	content: "\f147";
+	content: "\f147" / '';
+}
+.plugin-card .column-compatibility .compatibility-incompatible:before {
+	content: "\f158";
+	content: "\f158" / '';
+}
+.plugin-card .column-compatibility .compatibility-compatible:before {
+	content: "\f147";
+	content: "\f147" / '';
+}

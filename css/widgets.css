@@ -1,0 +1,4 @@
+.widgets-chooser .widgets-chooser-selected:before {
+	content: "\f147";
+	content: "\f147" / '';
+}

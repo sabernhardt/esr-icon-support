@@ -1,0 +1,1 @@
+.health-check-body .good::before,.health-check-body .pass::before{content:"\f147";content:"\f147"/''}.health-check-body .warning::before{content:"\f460";content:"\f460"/''}.health-check-body .info::before{content:"\f348";content:"\f348"/''}.health-check-body .error::before,.health-check-body .fail::before{content:"\f335";content:"\f335"/''}
