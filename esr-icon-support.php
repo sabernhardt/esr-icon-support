@@ -6,7 +6,7 @@
  * Author:      WordPress Contributors
  * Author URI:  https://core.trac.wordpress.org/ticket/64350
  * License:     GPLv2 or later
- * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Requires at least: 6.9
  * Requires PHP: 7.4
  */
