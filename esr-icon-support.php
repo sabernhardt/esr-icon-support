@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Extended Icon Support
  * Description: Restores icons for older browsers, such as Firefox Extended Support Release (ESR). Copies CSS rules from https://github.com/WordPress/wordpress-develop/pull/10636 and adds them inline.
- * Version:     0.4
+ * Version:     0.5
  * Author:      WordPress Contributors
  * Author URI:  https://core.trac.wordpress.org/ticket/64350
  * License:     GPLv2 or later
